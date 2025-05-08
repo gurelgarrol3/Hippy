@@ -3,3 +3,4 @@
 PATH=$PATH:/usr/local/bin:/usr/local/sbin
 
 npx --no-install commitlint --edit $1
+   
